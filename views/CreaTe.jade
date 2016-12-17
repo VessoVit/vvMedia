@@ -1,0 +1,101 @@
+extends layoutCategories
+
+
+
+block content
+	//- / Media is the message
+	//- iframe src="m/@CreaTeIndex"
+
+	audio#myAudio
+		source(src='/audioVideo/everywhereinuniverse.mp3', type='audio/mpeg')
+		| Your browser does not support the audio element.
+	
+
+	//- / Immerse yourself in the media
+	script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"  )
+	
+	script.
+		$(document).ready(function(){
+			$("#toggleContent").click(function(){
+				$(".ctrlh").toggle();
+				return false;
+			});
+
+			$('#toggleMedia').click(function() {
+				$(".vviFrame").toggle();
+				return false;
+			});
+
+		
+			$("#addVideo").click(function() {
+		   		$("<iframe />", { src: "/_Create/m/DaVoskDoctaExcess", opacity: 0.5, border: 0 }).appendTo("#video");
+			});
+
+			$("#addGif").click(function() {
+		   		$("<iframe />", { src: "/_CreaTe/m/@CreaTeIndex", opacity: 0.1, border: 0 }).appendTo("#video");
+			});
+
+			$("#addJpg").click(function() {
+		   		$("<iframe />", { src: "/_CreaTe/m/izza-mask", opacity: 0.5, border: 0 }).appendTo("#video");
+			});
+		});
+
+	script.
+		var x = document.getElementById("myAudio"); 
+		function playAudio() { x.play();} 
+		function pauseAudio() { x.pause();} 
+
+
+
+	//- iframe.vviFrame.bgstar(src='/_CreaTe/m/@CreaTeIndex')
+	//- iframe.vviFrame.bgstar#video(src='/_CreaTe/m/izza-mask')
+	div.bgstar#video
+
+	.container.ctrlh
+		.row.real.helperside
+			.col-md-5.col-sx-6
+				h4
+					i.fa.fa-cog.fa-spin.fa-fw
+					a(href="/_CreaTe/ReadMe" style="color:#003366") .creative technology 
+					a(href="WhatIsCreaTe") (?)
+
+				h1 /  
+					a(href="newMedia") ----- new media 
+			.col-md-2
+			.col-md-5
+				ul
+					li 
+						a(href="/_CreaTe/commons/") commons 
+						| / re(search) / .. /
+					li 
+						| Tools 
+						| / 
+						a(href="/_CreaTe/data") data 
+						| / 
+						a(href="/_CreaTe/toolbox") Toolbox	
+						| / 
+						| ?	
+						a(href="#")#addVideo Go #
+						| /	
+						| !  
+					li maps / cities / future / 
+					|  
+					a(href="#")#addGif x 
+					| / 4 
+					a(href="#")#addJpg y
+
+		.row.real.bg-text
+			.col-md-1
+			.col-md-7.mark-spray
+				blockquote
+					p.highlightquote “You will be required to do wrong no matter where you go. It is the basic condition of life, to be required to violate your own identity. At some time, every creature which lives must do so. It is the ultimate shadow, the defeat of creation; this is the curse at work, the curse that feeds on all life. Everywhere in the universe.” 
+					footer
+					| ― Philip K. Dick,
+					cite(title=("Do Androids Dream of Electric Sheep? "))  Do Androids Dream of Electric Sheep?  
+					a(href="https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_") Goodreads
+
+					button(onclick="playAudio()" type="button")
+						i.fa.fa-play.fa-1
+
+				.col-md-4
+

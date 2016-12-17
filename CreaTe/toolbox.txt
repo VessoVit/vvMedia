@@ -1,0 +1,39 @@
+{
+   "title" : "Creaitve Technology Toolbox",
+   "template" : "page"
+}
+
+# Creative Technology Toolbox
+is a set of resources, learning materials and techniques focused on the technical aspect of the arts. The toolbox is mainly practical tools and surrounding it skills.
+
+## openFrameworks and Processing
+The two platform vagluely represent programming and coding, the hardcore and beginer level when it comes to programming and graphics. Poetry with code is just another way for mdoern artists to express idea and concept, but in the domain of code. 
+
+objets -> compositions -> motion -> adaptability -> life 
+
+Processing is represting the notebook of the artists, where all kind of thouts and experiments can be quickly saved by the artist. 
+
+Variables, Functions, Classes, Arrays 
+
+Data Structures and Algorithms
+
+Complexity and Life cycle  
+
+[OpenFrameworks.cc](http://openframeworks.cc/learning/) 
+
+### Procedural Generated Code
+It is in the ability of creator with understading of creative technology tools, to procedury generate forms, materials, cities and even space galacties. 
+
+### Advance Graphics
+$haders 
+
+#### Reference
+
+
+- Noble, J. (2009). Programming Interactivity: A Designer's Guide to Processing, Arduino, and Openframeworks. " O'Reilly Media, Inc.". [Google Books](https://books.google.nl/books?hl=en&lr=&id=STXR9vCXs5YC&oi=fnd&pg=PR3&dq=Programming+interactivity&ots=kX1ROPM-ba&sig=yYzAYCjtbQyKIMOFeK_Prr3uDTc)
+
+- Shiffman, D., Fry, S., & Marsh, Z. (2012). The nature of code. D. Shiffman. [Website](http://natureofcode.com)  
+
+####Others
+[Data Structrures Repo](https://github.com/VessoVit/DataStructuresAndAlgorithms)
+

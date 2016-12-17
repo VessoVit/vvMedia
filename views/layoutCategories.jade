@@ -1,0 +1,19 @@
+doctype html
+html
+  head
+    title #{settings.sitename} - #{title}
+    //- link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
+
+
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', integrity='sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi', crossorigin='anonymous')
+    
+    link(href='https://fonts.googleapis.com/css?family=Oswald|Quattrocento+Sans', rel='stylesheet')
+    link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet')
+    link(rel='stylesheet', href='/style.css')
+
+  body
+  
+    include menu 
+    
+    div.container
+      block content        

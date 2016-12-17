@@ -1,0 +1,21 @@
+extends layout
+
+block content
+  div.container
+    div.row
+        h1= title
+      div.col-xs-12.col-md-8.devider
+        p Recent Articles
+        each val, key in titles
+          div.row
+            div.col-md-9.col-xs-8
+              a(href='/blog/#{key}')
+                h2= val.title
+                p= val.description
+            div.col-md-3.col-xs-4
+              h3= val.date
+
+      div.col-xs-12.col-md-4
+      h1 Domains
+        a(href='/_CreaTe/')
+          h2 _CreaTe

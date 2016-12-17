@@ -1,0 +1,46 @@
+{
+   "title" : "Common Creative Technology Topics",
+   "template" : "page"
+}
+
+Commons
+========
+
+## Creative Technology Common
+The road to CreaTe.
+
+
+#### Core
+   
+- Computer Science  
+- [Mathematics](/_CreaTe/Mathematics)   
+- Statistics  
+- Physics  
+- Design   
+
+#### Advane Topics
+
+- New Media Art
+- 3D printing
+- Virtual/Augumented Reality
+- Brain Computer Interaction
+- Wearables
+- Graphic Programing (3D)
+
+
+#### [Programming](/_CreaTe/toolbox) 
+
+- Data Structures & Algorithms
+- Visual 
+    - Processing
+    - openFrameworks
+- Embeded Electronics
+
+####  Web & Internet
+
+- PHP, NodeJs
+- Web Design
+- Servers 
+- Databases
+- Web Services 
+- Internet of <del>shit</del> thinks

@@ -1,0 +1,18 @@
+{
+   "title" : "Data",
+   "template" : "page"
+}
+
+
+# Data Science && Visualizations 
+
+## OpenData
+Data is the king, and there is nothing --better than a transparent king...wait..nvm Here is a list of resources:
+
+[The Open Data Handbook](http://opendatahandbook.org/guide/en/) is a set of articles, resources and refrences about the importance of open Data and the importance of in the current state of society and technology.
+
+## Resources
+
+- [Playing With Data (Google Docs)](https://docs.google.com/document/d/1fdxql_VK8QElHFWUzWupG0CMdj0wdC-0iVbJccbpBo0/edit?usp=sharing) A big list of tools and resources by [Yuri Engelhardt](http://yuriengelhardt.com) 
+- [General World Information DB](https://github.com/openmundi/world.db) 
+

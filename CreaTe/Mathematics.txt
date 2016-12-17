@@ -1,0 +1,36 @@
+{
+   "title" : "Mathematics",
+   "template" : "page"
+}
+
+
+
+# Mathematics
+
+
+#### I hate it
+
+but somehow we have to love it and everybody has to learn [Star Trek | I hate Calculus](https://www.youtube.com/watch?v=ETt8GJRbqLc) for some reason, but WHY ? 
+
+It is somewhat important for programming and it's reponsible for many of the excitenig in the use for animations, 3D worlds and simulations and of creat importance in computer science. But lets be realistic here, we need to redefine how mathematics should be teached. What-the-actual....
+
+Hold my hoverboard...let me try to summarise it here.
+
+#### Equations, Functions and Graphs
+
+ Logorithms
+
+##### Trigonometric
+
+##### Periodicity & Growth
+
+#### Derivatives
+Derivatives are one of the most exciting concepts in math, with lovely applications in advance graphics and all sort of applications in the creative field. The topic is probably equally exciting in math and finance but it also creates a lot of confusing about its use in financial world [(_The problem with Derivative. YouTube_)](https://www.youtube.com/watch?v=XBrQOWlmJvc). The full size of the derivative market is [ennormous](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/). Is that real money? 
+
+**Derivative as a Function**
+
+
+**There is an app for that**
+
+- Paper > Latex > visualisation [Mathpix,iPhone](https://itunes.apple.com/us/app/mathpix/id1075870730?ls=1&mt=8)
+- [Symbolab Math Solver](https://www.symbolab.com/)

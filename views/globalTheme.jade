@@ -1,0 +1,71 @@
+extends layout
+
+block content
+
+  script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js") 
+
+  script.
+    $(document).ready(function(){
+      $("#toggleClock").click(function(){
+      $("iframe").toggle();
+        return false;
+      });
+    });
+
+  iframe.clock(src='/_CreaTe/m/@Clock')
+
+  div.container-fluid
+    div.row
+      div.navbar.
+
+
+    div.row.real
+
+      div.col-md-2.col-xs-4
+      div.col-md-3 Docs
+      div.col-md-1.col-xs-4 Research
+      div.col-md-3
+      div.col-xs-3 Soci€ty 
+
+    div.row.real
+      div.col-md-12
+
+    div.row.real   
+      div.col-md-4
+        
+      div.col-md-2 Art & Tech
+
+      div.col-md-6
+        a#toggleClock(href="")
+
+          i.fa.fa-eye.fa-5x.overlapi(aria-hidden="true") 
+          
+    div.row.real
+
+    div.row 
+      div.col-xs-8 
+      div.col-xs-4 
+    div.row.real
+      div.col-md-2 
+        h1.text-right 
+      div.col-md-2 
+        h4.text-left Virtual 
+        h4 & Hybrid 
+        h3 Worlds
+
+      div.col-md-2
+      div.col-md-2
+      div.col-md-2
+        a(href="/_Create/")
+          h1 Creative
+          h2 Technology
+
+    div.row.real
+      div.col-md-3
+      div.col-md-3.real
+      h2 Visual Journal
+        //- a(href="/_VisualJournal") Visual Journal
+
+      div.col-md-6
+
+

@@ -1,0 +1,3 @@
+var approot = __dirname;
+	
+	

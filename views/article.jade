@@ -1,0 +1,25 @@
+extends layout
+
+block content
+
+  
+  div.container
+    div.row
+      div.col-xs-12
+        h1= title
+        != body
+        p #{meta.date}
+        
+    div.row
+      div.col-xs-12
+        h3 Sharing is carrying
+        div.well
+          //- each val, key in meta
+          //-   p= meta.title
+            //- p= key + ' : ' + val
+
+          p Permalink to this article:
+            br
+            a(href="#{settings.url}blog/#{meta.date}/#{meta.slug}") #{settings.url}blog/#{meta.date}/#{meta.slug}
+        p
+          a(href='/allContent').btn.btn-primary Back to Article list
