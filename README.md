@@ -1,12 +1,20 @@
-vvMedia
+SlimNode
 ========
-Is in interactive playground for all sort of experimental technologies with focus on advancement first, user experience second.
+A NodeJS Blogging engine, using flat files and Markdown
 
 Potential Improvements
 ===========
-- 
+- Grunt or Gulp Build system for CSS and JS
+- Introduction of using .env files and environment variables in general
+- Farming the routing out to controllers and parsing the articles and pages as Models
 
+What is SlimNode
+========
+Slim Node is a blog engine that makes use of Markdown flat files as a blogging engine, making it easy to update and edit, without having to worry about having a chunky CMS like wordpress or Drupal to manage your content. It is quick and light and the entire application logic (not including node dependencies) is only 56kb in size.
 
+It is based off of [SlimBlog](http://davidsivocha.github.com/slimblog), which is a Flat File PHP Blogging system.
+
+You can use Git to push updates to the articles folder, making it easy to update.
 
 How to use
 ========
@@ -63,5 +71,5 @@ Url Structure
 
 About SlimNode
 ========
-This project was based on Slimnode. Inpsired by an article on [NetTuts](http://net.tutsplus.com) for a static file blog in PHP, I thought to myself "that would be way more badass in node". This is the result.
+Inpsired by an article on [NetTuts](http://net.tutsplus.com) for a static file blog in PHP, I thought to myself "that would be way more badass in node". This is the result.
 This repo is maintained by @davidsivocha. [Sivocha.com](http://sivocha.com)/[ThreeHive](http://threehive.co.uk).

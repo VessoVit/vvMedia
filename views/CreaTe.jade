@@ -45,6 +45,14 @@ block content
 		function playAudio() { x.play();} 
 		function pauseAudio() { x.pause();} 
 
+	script.
+		$("iframe", parent.document.body); 
+		    //- $("iframe").attr('src', 'default');
+		    $("removeFrames").click(function(){
+			    $("iframe").remove();
+		    })
+		   
+		});
 
 
 	//- iframe.vviFrame.bgstar(src='/_CreaTe/m/@CreaTeIndex')
@@ -75,14 +83,17 @@ block content
 						a(href="/_CreaTe/toolbox") Toolbox	
 						| / 
 						| ?	
-						a(href="#")#addVideo Go #
 						| /	
 						| !  
 					li maps / cities / future / 
 					|  
-					a(href="#")#addGif x 
-					| / 4 
-					a(href="#")#addJpg y
+
+					a#addVideo(href="#")
+						i.fa.fa-cog.fa-eye.fa-fw
+					| / 4 / 
+					a#addGif(href="#")
+						i.fa.fa-cog.fa-eye.fa-fw
+					| /  
 
 		.row.real.bg-text
 			.col-md-1

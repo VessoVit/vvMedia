@@ -1,0 +1,14 @@
+{
+   "title" : "New Media",
+   "template" : "page"
+}
+
+
+**For me, the most important and distinguishing property of new media is interactivity. But how many people can actually create interactive games, animations, or simulations? Not very many. So, in my mind, very few people are truly literate with new media.**    
+ _-Mitchel Resnick_
+
+**What's interesting about the shift from an industrial age to a technological age is that we keep inventing new media: movies, records, radio, television, the Internet, and now ebooks - and one of the things that's most interesting about the invention of a new medium is watching it reinvent itself as it penetrates the culture.**    
+ _-David Gerrold_
+
+**This is all about a media war that continues to rage between the old and new media. Unfortunately for our soldiers, these brave Americans are caught in the crossfire.**   
+ _-Joe Scarborough_

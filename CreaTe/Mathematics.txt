@@ -25,9 +25,13 @@ Hold my hoverboard...let me try to summarise it here.
 ##### Periodicity & Growth
 
 #### Derivatives
-Derivatives are one of the most exciting concepts in math, with lovely applications in advance graphics and all sort of applications in the creative field. The topic is probably equally exciting in math and finance but it also creates a lot of confusing about its use in financial world [(_The problem with Derivative. YouTube_)](https://www.youtube.com/watch?v=XBrQOWlmJvc). The full size of the derivative market is [ennormous](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/). Is that real money? 
+Derivatives are one of the most exciting concepts in math, with lovely applications in advance graphics and all sort of applications in the creative field. The topic is probably equally exciting in math and finance but it also creates a lot of confusing about its use in financial world [(_The problem with Derivative. YouTube_)](https://www.youtube.com/watch?v=XBrQOWlmJvc). The full size of the derivative market is [ennormous](http://money.visualcapitalist.com/all-of-the-worlds-money-and-markets-in-one-visualization/). Is that real money? Maybe no, maybe yes but that doesn't matter that much, because it's fun anyways.
 
 **Derivative as a Function**
+
+
+## References
+Khan Academy, duh. 
 
 
 **There is an app for that**

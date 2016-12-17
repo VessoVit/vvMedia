@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    </head>
+    <body>
+        <p>This is the parent</p>
+        <iframe id="frame1" src="https://www.youtube.com/watch?v=2jNPWdXK9DE&feature=youtu.be"></iframe>
+        <script type="text/javascript">
+
+            $(document).ready(function() {
+
+              // function for setting an unload callback function
+              function setChildUnload(callback)
+              {
+                var documentChild = $('#frame1').prop("contentWindow").document;
+                var childWindow = $('#frame1').prop("contentWindow");
+
+                // we need to wait for child's ready function
+                $(documentChild).ready(function() {
+                  $(childWindow).unload(callback);
+                });
+              }
+
+              // unload callback
+              function myUnload()
+              {
+                  console.log('unload triggered');
+              }
+
+              $('#frame1').load( function() {         
+                  console.log('load triggered');
+
+                 // set the callback when child page is loaded
+                setChildUnload(myUnload);
+              });
+            });
+        </script>
+    </body>
+</html>

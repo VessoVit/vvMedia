@@ -29,5 +29,8 @@ router.get('/_CreaTe', function(req, res) {
 	res.render('CreaTe', {title: 'Creative Technology || _CreaTe'});
 
 })
+router.get('/_Society', function(req, res) {
+	res.render('Society', {title: 'Soci€ty '});
 
+})
 module.exports = router;
