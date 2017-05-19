@@ -1,72 +1,85 @@
-extends layout
-
-block content
-
-  script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js") 
-
-  script.
-    $(document).ready(function(){
-      $("#toggleClock").click(function(){
-      $("iframe").toggle();
-        return false;
-      });
-    });
-
-  iframe.clock(src='/_CreaTe/m/@Clock')
-
-  div.container-fluid
-    div.row
-      div.navbar.
+doctype html
+html
+  head
+    title  vvMedia || #{title} 
+    //- link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
 
 
-    div.row.real
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', integrity='sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi', crossorigin='anonymous')
+    
+    link(href='https://fonts.googleapis.com/css?family=Oswald|Quattrocento+Sans', rel='stylesheet')
+    link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet')
+    link(rel='stylesheet', href='/style.css')
 
-      div.col-md-2.col-xs-2
-      div.col-md-3.col-xs-3 Docs
-      div.col-md-1.col-xs-4 Research
-      div.col-md-3
-      div.col-xs-3.col-xs-3 
-        a(href="/_Society") Soci€ty 
+  body
 
-    div.row.real
-      div.col-md-12
+    block content
 
-    div.row.real   
-      div.col-md-4.col-xs-4
-        
-      div.col-md-2.col-xs-3 Art & Tech
+      script(src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js") 
 
-      div.col-md-6
-        a#toggleClock(href="")
+      script.
+        $(document).ready(function(){
+          $("#toggleClock").click(function(){
+          $("iframe").toggle();
+            return false;
+          });
+        });
 
-          i.fa.fa-eye.fa-5x.overlapi(aria-hidden="true") 
-          
-    div.row.real
+      iframe.clock(src='/_CreaTe/m/@Clock')
 
-    div.row 
-      div.col-xs-8 
-      div.col-xs-4 
-    div.row.real
-      div.col-md-2.col-xs-1
-        h1.text-right 
-      div.col-md-2.col-xs-3 
-        h4.text-left Virtual 
-        h4 & Hybrid 
-        h3 Worlds
+      div.container-fluid
+        div.row
+          div.navbar.
 
-      div.col-md-2
-      div.col-md-2.col-xs-2
-      div.col-md-2.col-xs-6
-        a(href="/_Create/")
-          h1 Creative
-          h2 Technology
 
-    div.row.real
-      div.col-md-3.col-xs-3
-      div.col-md-3.col-xs-2
-      h2 Visual Journal
-        //- a(href="/_VisualJournal") Visual Journal
+        div.row.real
 
-      div.col-md-6.col-xs-3
+          div.col-md-2.col-xs-2
+          div.col-md-3.col-xs-3 Docs
+          div.col-md-1.col-xs-4 Research
+          div.col-md-3
+          div.col-xs-3.col-xs-3 
+            a(href="/_Society") Soci€ty 
+
+        div.row.real
+          div.col-md-12
+
+        div.row.real   
+          div.col-md-4.col-xs-4
+            
+          div.col-md-2.col-xs-3 Art & Tech
+
+          div.col-md-6
+            a#toggleClock(href="")
+
+              i.fa.fa-eye.fa-5x.overlapi(aria-hidden="true") 
+              
+        div.row.real
+
+        div.row 
+          div.col-xs-8 
+          div.col-xs-4 
+        div.row.real
+          div.col-md-2.col-xs-1
+            h1.text-right 
+          div.col-md-2.col-xs-3 
+            h4.text-left Virtual 
+            h4 & Hybrid 
+            h3 Worlds
+
+          div.col-md-2
+          div.col-md-2.col-xs-2
+          div.col-md-2.col-xs-6
+            a(href="/_Create/")
+              h1 Creative
+              h2 Technology
+
+        div.row.real
+          div.col-md-3.col-xs-3
+          div.col-md-3.col-xs-2
+          h2 Visual Journal
+            //- a(href="/_VisualJournal") Visual Journal
+
+          div.col-md-6.col-xs-3
 
 

@@ -16,12 +16,12 @@ router.get('/_CreaTe/m/:mname', routes.staticMedia);
 
 // HardCoded routers to be automated later
 router.get('/',function(req,res){
-	res.render('index', {title: 'List View'});
+	res.render('index', {title: 'World'});
 });
 
 
 router.get('/globalTheme', function(req,res) {
-	res.render('globalTheme', {title: 'List View'});
+	res.render('globalTheme', {title: 'Topics'});
 
 });
 

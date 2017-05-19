@@ -7,7 +7,7 @@
 		"uuidString": "6F65B239-7BD6-4E36-A73B-CA39D3870254"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25813",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -126,10 +126,34 @@
 		"oAP": "\/CreaTe\/Mathematics.txt",
 		"oF": 0
 		},
+	"\/CreaTe\/newMedia.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CreaTe\/newMedia.txt",
+		"oF": 0
+		},
+	"\/CreaTe\/readme.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CreaTe\/readme.txt",
+		"oF": 0
+		},
 	"\/CreaTe\/toolbox.txt": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/CreaTe\/toolbox.txt",
+		"oF": 0
+		},
+	"\/CreaTe\/WhatIsCreaTe.txt": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/CreaTe\/WhatIsCreaTe.txt",
+		"oF": 0
+		},
+	"\/LICENSE": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/LICENSE",
 		"oF": 0
 		},
 	"\/LinksYouTube": {
@@ -170,7 +194,9 @@
 		"oA": 0,
 		"oAP": "\/public\/images\/Apollo_Served_by_the_Nymphs,_Francois_Girardon.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/images\/fav_icons_external\/ar-icon.ico": {
 		"ft": 8192,
@@ -196,7 +222,10 @@
 		"oA": 0,
 		"oAP": "\/public\/images\/frame.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/images\/gif\/dark-matter-space.gif": {
 		"ft": 4194304,
@@ -228,7 +257,10 @@
 		"oA": 0,
 		"oAP": "\/public\/images\/glyphicons-halflings-white.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/images\/glyphicons-halflings.png": {
 		"ft": 32768,
@@ -236,7 +268,10 @@
 		"oA": 0,
 		"oAP": "\/public\/images\/glyphicons-halflings.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/public\/images\/IMG_3068.jpg": {
 		"ft": 16384,
@@ -244,7 +279,9 @@
 		"oA": 0,
 		"oAP": "\/public\/images\/IMG_3068.jpg",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/public\/javascripts\/bootstrap.js": {
 		"ft": 64,
@@ -260,6 +297,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/public\/javascripts\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/public\/javascripts\/numerology.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/public\/javascripts\/numerology-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
@@ -536,6 +582,14 @@
 		"oAP": "\/views\/page.html",
 		"oF": 1,
 		"oS": 0
+		},
+	"\/views\/Society.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 1,
+		"oAP": "\/views\/Society.html",
+		"oF": 0,
+		"oS": 0
 		}
 	},
 "hooks": [
@@ -544,7 +598,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 503066074,
-	"displayValue": "slimnode",
+	"displayValue": "vvMediaWiki",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-archer"
 	},
@@ -1194,6 +1248,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -1212,6 +1270,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -1414,6 +1476,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -1491,6 +1557,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1690,6 +1760,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -1734,9 +1808,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -1831,6 +1913,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -2277,7 +2363,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -2300,14 +2387,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -2370,7 +2449,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 1,

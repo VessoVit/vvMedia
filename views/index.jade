@@ -1,17 +1,29 @@
-extends layout
+doctype html
+html
+  head
+    title vvMedia || #{title} 
+    //- link(rel='stylesheet', href='/stylesheets/bootstrap.min.css')
 
-block content
-  div.row.real
-    div.col-xs-12
-  div.row       
-    a(href='/').titlePage
-        h1 ╲╱℣℣.ⱮⱻȡĬª╲╱
-    h3.titlePage
-      | _occupied 
-      del  and
-      |  
-      |  (a)void 
-    #frame
-      #border.bg-faded
-        a(href='globalTheme')
-          img.img_home(src='images/IMG_3068.jpg', alt='Drawing')
+
+    link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css', integrity='sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi', crossorigin='anonymous')
+    
+    link(href='https://fonts.googleapis.com/css?family=Oswald|Quattrocento+Sans', rel='stylesheet')
+    link(href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet')
+    link(rel='stylesheet', href='/style.css')
+
+  body
+    block content
+      div.row.real
+        div.col-xs-12
+      div.row       
+        a(href='/').titlePage
+            h1 ╲╱℣℣.ⱮⱻȡĬª╲╱
+        h3.titlePage
+          | _occupied 
+          del  and
+          |  
+          |  (a)void 
+        #frame
+          #border.bg-faded
+            a(href='globalTheme')
+              img.img_home(src='images/IMG_3068.jpg', alt='Drawing')

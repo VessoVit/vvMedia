@@ -199,16 +199,16 @@ Energy
 * [COMBED](http://combed.github.io)
 * [Dataport](https://dataport.pecanstreet.org)
 * [DRED](http://www.st.ewi.tudelft.nl/~akshay/dred)
-* [ECO](http://www.vs.inf.ethz.ch/res/show.html?what=eco-data]
+* [ECO](http://www.vs.inf.ethz.ch/res/show.html?what=eco-data)
 * [EIA](http://www.eia.gov/electricity/data/eia923)
-* [HES](http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description] - Household Electricity Study, UK
+* [HES](http://randd.defra.gov.uk/Default.aspx?Menu=Menu&Module=More&Location=None&ProjectID=17359&FromSearch=Y&Publisher=1&SearchText=EV0702&SortString=ProjectCode&SortOrder=Asc&Paging=10#Description) - Household Electricity Study, UK
 * [HFED](http://hfed.github.io)
 * [iAWE](http://iawe.github.io)
 * [PLAID](http://plaidplug.com) - the Plug Load Appliance Identification Dataset
 * [REDD](http://redd.csail.mit.edu)
-* [Tracebase](https://www.tracebase.org]
+* [Tracebase](https://www.tracebase.org)
 * [UK-DALE](http://www.doc.ic.ac.uk/~dk3810/data) - UK Domestic Appliance-Level Electricity
-* [WHITED](http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf]
+* [WHITED](http://nilmworkshop.org/2016/proceedings/Poster_ID18.pdf)
 
 
 
@@ -216,11 +216,11 @@ Finance
 -------
 
 * [CBOE Futures Exchange](http://cfe.cboe.com/Data)
-* [Google Finance](https://www.google.com/finance]
-* [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0]
+* [Google Finance](https://www.google.com/finance)
+* [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
 * [NASDAQ](https://data.nasdaq.com)
 * [OANDA](http://www.oanda.com)
-* [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm]
+* [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
 * [Quandl](https://www.quandl.com)
 * [St Louis Federal](https://research.stlouisfed.org/fred2)
 * [Yahoo Finance](http://finance.yahoo.com)
@@ -230,7 +230,7 @@ Finance
 GIS
 ---
 
-* [Cambridge, MA, US, GIS data on GitHub](http://cambridgegis.github.io/gisdata.html]
+* [Cambridge, MA, US, GIS data on GitHub](http://cambridgegis.github.io/gisdata.html)
 * [Factual Global Location Data](https://www.factual.com)
 * [Geo Spatial Data from ASU](http://geodacenter.asu.edu/datalist)
 * [Geo Wiki Project - Citizen-driven Environmental Monitoring](http://geo-wiki.org)
@@ -239,122 +239,122 @@ GIS
 * [Global Administrative Areas Database [GADM)](http://www.gadm.org)
 * [Homeland Infrastructure Foundation-Level Data](https://hifld-dhs-gii.opendata.arcgis.com)
 * [Landsat 8 on AWS](https://aws.amazon.com/public-data-sets/landsat)
-* [List of all countries in all languages](https://github.com/umpirsky/country-list]
+* [List of all countries in all languages](https://github.com/umpirsky/country-list)
 * [National Weather Service GIS Data Portal](http://www.nws.noaa.gov/gis)
 * [Natural Earth - vectors and rasters of the world](http://www.naturalearthdata.com)
 * [OpenAddresses](http://openaddresses.io)
-* [OpenStreetMap [OSM)](http://wiki.openstreetmap.org/wiki/Downloading_data]
+* [OpenStreetMap [OSM)](http://wiki.openstreetmap.org/wiki/Downloading_data)
 * [Pleiades - Gazetteer and graph of ancient places](http://pleiades.stoa.org)
 * [Reverse Geocoder using OSM data](https://github.com/kno10/reversegeocode] &(additional high-resolution data files](http://data.ub.uni-muenchen.de/61)
-* [TIGER/Line - U.S. boundaries and roads](http://www.census.gov/geo/maps-data/data/tiger-line.html]
-* [TwoFishes - Foursquare's coarse geocoder](https://github.com/foursquare/twofishes]
+* [TIGER/Line - U.S. boundaries and roads](http://www.census.gov/geo/maps-data/data/tiger-line.html)
+* [TwoFishes - Foursquare's coarse geocoder](https://github.com/foursquare/twofishes)
 * [TZ Timezones shapfiles](http://efele.net/maps/tz/world)
 * [UN Environmental Data](http://geodata.grid.unep.ch)
-* [World boundaries from  the U.S. Department of State](https://hiu.state.gov/data/data.aspx]
-* [World countries in multiple formats](https://github.com/mledoze/countries]
+* [World boundaries from  the U.S. Department of State](https://hiu.state.gov/data/data.aspx)
+* [World countries in multiple formats](https://github.com/mledoze/countries)
 
 
 Government
 ----------
 
 * [OpenDataSoft's list of 1,600 open data portals](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world)
-* [A list of cities and countries contributed by community](https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst]
+* [A list of cities and countries contributed by community](https://github.com/caesar0301/awesome-public-datasets/blob/master/Government.rst)
 
 
 Healthcare
 ----------
 
-* [EHDP Large Health Data Sets](http://www.ehdp.com/vitalnet/datasets.htm]
+* [EHDP Large Health Data Sets](http://www.ehdp.com/vitalnet/datasets.htm)
 * [Gapminder World demographic databases](http://www.gapminder.org/data)
 * [Medicare Coverage Database [MCD), U.S.](https://www.cms.gov/medicare-coverage-database)
 * [Medicare Data Engine of medicare.gov Data](https://data.medicare.gov)
-* [Medicare Data File](http://go.cms.gov/19xxPN4]
-* [MeSH, the vocabulary thesaurus used for indexing articles for PubMed](https://www.nlm.nih.gov/mesh/filelist.html]
-* [Number of Ebola Cases and Deaths in Affected Countries [2014)](https://data.hdx.rwlabs.org/dataset/ebola-cases-2014]
-* [Open-ODS [structure of the UK NHS)](http://www.openods.co.uk]
-* [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov]
-* [The Cancer Genome Atlas project [TCGA)](https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp] and(BigQuery table](http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html]
+* [Medicare Data File](http://go.cms.gov/19xxPN4)
+* [MeSH, the vocabulary thesaurus used for indexing articles for PubMed](https://www.nlm.nih.gov/mesh/filelist.html)
+* [Number of Ebola Cases and Deaths in Affected Countries [2014)](https://data.hdx.rwlabs.org/dataset/ebola-cases-2014)
+* [Open-ODS [structure of the UK NHS)](http://www.openods.co.uk)
+* [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov)
+* [The Cancer Genome Atlas project [TCGA)](https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp] and(BigQuery table](http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html)
 * [World Health Organization Global Health Observatory](http://www.who.int/gho/en)
 
 
 Image Processing
 ----------------
 
-* [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html]
-* [2GB of Photos of Cats](http://137.189.35.203/WebUI/CatDatabase/catData.html] or(Archive version](https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html]
+* [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
+* [2GB of Photos of Cats](http://137.189.35.203/WebUI/CatDatabase/catData.html] or(Archive version](https://web.archive.org/web/20150520175645/http://137.189.35.203/WebUI/CatDatabase/catData.html)
 * [Affective Image Classification](http://www.imageemotion.org)
 * [Animals with attributes](http://attributes.kyb.tuebingen.mpg.de)
 * [Face Recognition Benchmark](http://www.face-rec.org/databases)
 * [ImageNet [in WordNet hierarchy)](http://www.image-net.org)
-* [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html]
-* [International Affective Picture System, UFL](http://csea.phhp.ufl.edu/media/iapsmessage.html]
-* [Massive Visual Memory Stimuli, MIT](http://cvcl.mit.edu/MM/stimuli.html]
-* [Several Shape-from-Silhouette Datasets](http://kaiwolf.no-ip.org/3d-model-repository.html]
+* [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html)
+* [International Affective Picture System, UFL](http://csea.phhp.ufl.edu/media/iapsmessage.html)
+* [Massive Visual Memory Stimuli, MIT](http://cvcl.mit.edu/MM/stimuli.html)
+* [Several Shape-from-Silhouette Datasets](http://kaiwolf.no-ip.org/3d-model-repository.html)
 * [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs)
-* [SUN database, MIT](http://groups.csail.mit.edu/vision/SUN/hierarchy.html]
+* [SUN database, MIT](http://groups.csail.mit.edu/vision/SUN/hierarchy.html)
 * [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets)
 * [YouTube Faces Database](http://www.cs.tau.ac.il/~wolf/ytfaces)
-* [Adience Unfiltered faces for gender and age classification](http://www.openu.ac.il/home/hassner/Adience/data.html]
-* [The Action Similarity Labeling [ASLAN) Challenge](http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html]
+* [Adience Unfiltered faces for gender and age classification](http://www.openu.ac.il/home/hassner/Adience/data.html)
+* [The Action Similarity Labeling [ASLAN) Challenge](http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)
 * [Violent-Flows - Crowd Violence \ Non-violence Database and benchmark](http://www.openu.ac.il/home/hassner/data/violentflows)
 
 Machine Learning
 ----------------
 
-* [Delve Datasets for classification and regression [Univ. of Toronto)](http://www.cs.toronto.edu/~delve/data/datasets.html]
+* [Delve Datasets for classification and regression [Univ. of Toronto)](http://www.cs.toronto.edu/~delve/data/datasets.html)
 * [Discogs Monthly Data](http://data.discogs.com)
-* [eBay Online Auctions [2012)](http://www.modelingonlineauctions.com/datasets]
-* [IMDb Database](http://www.imdb.com/interfaces]
-* [Keel Repository for classification, regression and time series](http://sci2s.ugr.es/keel/datasets.php]
+* [eBay Online Auctions [2012)](http://www.modelingonlineauctions.com/datasets)
+* [IMDb Database](http://www.imdb.com/interfaces)
+* [Keel Repository for classification, regression and time series](http://sci2s.ugr.es/keel/datasets.php)
 * [Labeled Faces in the Wild [LFW)](http://vis-www.cs.umass.edu/lfw)
-* [Lending Club Loan Data](https://www.lendingclub.com/info/download-data.action]
+* [Lending Club Loan Data](https://www.lendingclub.com/info/download-data.action)
 * [Machine Learning Data Set Repository](http://mldata.org)
 * [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong)
-* [More Song Datasets](http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets]
-* [New Yorker caption contest ratings](https://github.com/nextml/caption-contest-data]
+* [More Song Datasets](http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets)
+* [New Yorker caption contest ratings](https://github.com/nextml/caption-contest-data)
 * [MovieLens Data Sets](http://grouplens.org/datasets/movielens)
-* [RDataMining - "R and Data Mining" ebook data](http://www.rdatamining.com/data]
-* [Registered Meteorites on Earth](http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized]
+* [RDataMining - "R and Data Mining" ebook data](http://www.rdatamining.com/data)
+* [Registered Meteorites on Earth](http://healthintelligence.drupalgardens.com/content/registered-meteorites-has-impacted-earth-visualized)
 * [Restaurants Health Score Data in San Francisco](http://missionlocal.org/san-francisco-restaurant-health-inspections)
 * [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml)
-* [Yahoo! Ratings and Classification Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r]
+* [Yahoo! Ratings and Classification Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=r)
 
 
 Museums
 -------
 
-* [Canada Science and Technology Museums Corporation's Open Data](http://techno-science.ca/en/data.php]
-* [Cooper-Hewitt's Collection Database](https://github.com/cooperhewitt/collection]
-* [Minneapolis Institute of Arts metadata](https://github.com/artsmia/collection]
+* [Canada Science and Technology Museums Corporation's Open Data](http://techno-science.ca/en/data.php)
+* [Cooper-Hewitt's Collection Database](https://github.com/cooperhewitt/collection)
+* [Minneapolis Institute of Arts metadata](https://github.com/artsmia/collection)
 * [Natural History Museum [London) Data Portal](http://data.nhm.ac.uk)
-* [Rijksmuseum Historical Art Collection](https://www.rijksmuseum.nl/en/api]
-* [Tate Collection metadata](https://github.com/tategallery/collection]
-* [The Getty vocabularies](http://vocab.getty.edu]
+* [Rijksmuseum Historical Art Collection](https://www.rijksmuseum.nl/en/api)
+* [Tate Collection metadata](https://github.com/tategallery/collection)
+* [The Getty vocabularies](http://vocab.getty.edu)
 
 
 Natural Language
 ----------------
 
-* [Blogger Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm]
-* [CLiPS Stylometry Investigation Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus]
+* [Blogger Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm)
+* [CLiPS Stylometry Investigation Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus)
 * [ClueWeb09 FACC](http://lemurproject.org/clueweb09/FACC1)
 * [ClueWeb12 FACC](http://lemurproject.org/clueweb12/FACC1)
-* [DBpedia - 4.58M things with 583M facts](http://wiki.dbpedia.org/Datasets]
-* [Flickr Personal Taxonomies](http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html]
+* [DBpedia - 4.58M things with 583M facts](http://wiki.dbpedia.org/Datasets)
+* [Flickr Personal Taxonomies](http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html)
 * [Freebase.com of people, places, and things](http://www.freebase.com)
 * [Google Books Ngrams [2.2TB)](https://aws.amazon.com/datasets/google-books-ngrams)
-* [Google Web 5gram [1TB, 2006)](https://catalog.ldc.upenn.edu/LDC2006T13]
-* [Gutenberg eBooks List](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs]
+* [Google Web 5gram [1TB, 2006)](https://catalog.ldc.upenn.edu/LDC2006T13)
+* [Gutenberg eBooks List](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs)
 * [Hansards text chunks of Canadian Parliament](http://www.isi.edu/natural-language/download/hansard)
-* [Machine Comprehension Test [MCTest) of text from Microsoft Research](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html]
-* [Machine Translation of European languages](http://statmt.org/wmt11/translation-task.html#download]
-* [Personae Corpus](http://www.clips.uantwerpen.be/datasets/personae-corpus]
-* [SaudiNewsNet Collection of Saudi Newspaper Articles [Arabic, 30K articles)](https://github.com/ParallelMazen/SaudiNewsNet]
+* [Machine Comprehension Test [MCTest) of text from Microsoft Research](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html)
+* [Machine Translation of European languages](http://statmt.org/wmt11/translation-task.html#download)
+* [Personae Corpus](http://www.clips.uantwerpen.be/datasets/personae-corpus)
+* [SaudiNewsNet Collection of Saudi Newspaper Articles [Arabic, 30K articles)](https://github.com/ParallelMazen/SaudiNewsNet)
 * [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection)
-* [USENET postings corpus of 2005~2011](http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html]
-* [Wikidata - Wikipedia databases](https://www.wikidata.org/wiki/Wikidata:Database_download]
-* [Wikipedia Links data - 40 Million Entities in Context](https://code.google.com/p/wiki-links/downloads/list]
-* [Universal Dependencies](http://universaldependencies.org]
+* [USENET postings corpus of 2005~2011](http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html)
+* [Wikidata - Wikipedia databases](https://www.wikidata.org/wiki/Wikidata:Database_download)
+* [Wikipedia Links data - 40 Million Entities in Context](https://code.google.com/p/wiki-links/downloads/list)
+* [Universal Dependencies](http://universaldependencies.org)
 * [WordNet databases and tools](http://wordnet.princeton.edu/wordnet/download)
 * [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw)
   
@@ -364,18 +364,18 @@ Neuroscience
 
 * [Allen Institute Datasets](http://www.brain-map.org)
 * [Brain Catalogue](http://braincatalogue.org)
-* [Brainomics](http://brainomics.cea.fr/localizer] 
+* [Brainomics](http://brainomics.cea.fr/localizer)
 * [CodeNeuro Datasets](http://datasets.codeneuro.org) 
-* [Collaborative Research in Computational Neuroscience [CRCNS)](http://crcns.org/data-sets]
-* [FCP-INDI](http://fcon_1000.projects.nitrc.org/index.html]
+* [Collaborative Research in Computational Neuroscience [CRCNS)](http://crcns.org/data-sets)
+* [FCP-INDI](http://fcon_1000.projects.nitrc.org/index.html)
 * [Human Connectome Project](http://www.humanconnectome.org/data) 
 * [NDAR](https://ndar.nih.gov)
 * [NIMH Data Archive](http://data-archive.nimh.nih.gov)
-* [NeuroData](http://neurodata.io]
+* [NeuroData](http://neurodata.io)
 * [OASIS](http://www.oasis-brains.org)
 * [OpenfMRI](https://openfmri.org)
 * [Neuroelectro](http://neuroelectro.org)
-* [Study Forrest](http://studyforrest.org]
+* [Study Forrest](http://studyforrest.org)
 
 
 Physics
@@ -384,87 +384,87 @@ Physics
 * [CERN Open Data Portal](http://opendata.cern.ch)
 * [Crystallography Open Database](http://www.crystallography.net)
 * [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu)
-* [NSSDC [NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html]
+* [NSSDC [NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)
 * [Sloan Digital Sky Survey [SDSS) - Mapping the Universe](http://www.sdss.org)
 
 
 Psychology/Cognition
 --------------------
 
-* [OSU Cognitive Modeling Repository Datasets](http://www.cmr.osu.edu/browse/datasets]
+* [OSU Cognitive Modeling Repository Datasets](http://www.cmr.osu.edu/browse/datasets)
 
 
 Public Domains
 --------------
 
 * [Amazon](http://aws.amazon.com/datasets)
-* [Archive-it from Internet Archive](https://www.archive-it.org/explore?show=Collections]
-* [Archive.org Datasets](https://archive.org/details/datasets]
+* [Archive-it from Internet Archive](https://www.archive-it.org/explore?show=Collections)
+* [Archive.org Datasets](https://archive.org/details/datasets)
 * [CMU JASA data archive](http://lib.stat.cmu.edu/jasadata)
 * [CMU StatLab collections](http://lib.stat.cmu.edu/datasets)
-* [Data360](http://www.data360.org/index.aspx]
-* [Datamob.org](http://datamob.org/datasets]
-* [Google](http://www.google.com/publicdata/directory]
+* [Data360](http://www.data360.org/index.aspx)
+* [Datamob.org](http://datamob.org/datasets)
+* [Google](http://www.google.com/publicdata/directory)
 * [Infochimps](http://www.infochimps.com)
-* [KDNuggets Data Collections](http://www.kdnuggets.com/datasets/index.html]
-* [Microsoft Azure Data Market Free DataSets](http://datamarket.azure.com/browse/data?price=free]
+* [KDNuggets Data Collections](http://www.kdnuggets.com/datasets/index.html)
+* [Microsoft Azure Data Market Free DataSets](http://datamarket.azure.com/browse/data?price=free)
 * [Numbray](http://numbrary.com)
-* [Open Library Data Dumps](https://openlibrary.org/developers/dumps]
-* [Reddit Datasets](https://www.reddit.com/r/datasets]
+* [Open Library Data Dumps](https://openlibrary.org/developers/dumps)
+* [Reddit Datasets](https://www.reddit.com/r/datasets)
 * [RevolutionAnalytics Collection](http://packages.revolutionanalytics.com/datasets)
-* [Sample R data sets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html]
-* [Stats4Stem R data sets](http://www.stats4stem.org/data-sets.html]
-* [StatSci.org](http://www.statsci.org/datasets.html]
-* [The Washington Post List](http://www.washingtonpost.com/wp-srv/metro/data/datapost.html]
-* [UCLA SOCR data collection](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data]
-* [UFO Reports](http://www.nuforc.org/webreports.html]
-* [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html]
-* [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php]
+* [Sample R data sets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html)
+* [Stats4Stem R data sets](http://www.stats4stem.org/data-sets.html)
+* [StatSci.org](http://www.statsci.org/datasets.html)
+* [The Washington Post List](http://www.washingtonpost.com/wp-srv/metro/data/datapost.html)
+* [UCLA SOCR data collection](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data)
+* [UFO Reports](http://www.nuforc.org/webreports.html)
+* [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)
+* [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
 
 
 Search Engines
 --------------
 
 * [Academic Torrents of data sharing from UMB](http://academictorrents.com)
-* [Datahub.io](https://datahub.io/dataset]
-* [DataMarket [Qlik)](https://datamarket.com/data/list/?q=all]
+* [Datahub.io](https://datahub.io/dataset)
+* [DataMarket [Qlik)](https://datamarket.com/data/list/?q=all)
 * [Harvard Dataverse Network of scientific data](https://dataverse.harvard.edu)
-* [ICPSR [UMICH)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp]
-* [Institute of Education Sciences](http://eric.ed.gov]
+* [ICPSR [UMICH)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)
+* [Institute of Education Sciences](http://eric.ed.gov)
 * [National Technical Reports Library](http://www.ntis.gov/products/ntrl)
-* [Open Data Certificates [beta)](https://certificates.theodi.org/en/datasets]
+* [Open Data Certificates [beta)](https://certificates.theodi.org/en/datasets)
 * [OpenDataNetwork - A search engine of all Socrata powered data portals](http://www.opendatanetwork.com)
 * [Statista.com - statistics and Studies](http://www.statista.com)
-* [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets]
+* [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)
 
 
 Social Networks
 ---------------
 
-* [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv]
+* [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)
 * [Ancestry.com Forum Dataset over 10 years](http://www.cs.cmu.edu/~jelsas/data/ancestry.com)
-* [Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape](https://archive.org/details/twitter_cikm_2010]
+* [Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape](https://archive.org/details/twitter_cikm_2010)
 * [CMU Enron Email of 150 users](http://www.cs.cmu.edu/~enron)
 * [EDRM Enron EMail of 151 users, hosted on S3](https://aws.amazon.com/datasets/enron-email-data)
-* [Facebook Data Scrape [2005)](https://archive.org/details/oxford-2005-facebook-matrix]
-* [Facebook Social Networks from LAW [since 2007)](http://law.di.unimi.it/datasets.php]
-* [Foursquare from UMN/Sarwat [2013)](https://archive.org/details/201309_foursquare_dataset_umn]
-* [GetGlue - users rating TV shows](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz]
+* [Facebook Data Scrape [2005)](https://archive.org/details/oxford-2005-facebook-matrix)
+* [Facebook Social Networks from LAW [since 2007)](http://law.di.unimi.it/datasets.php)
+* [Foursquare from UMN/Sarwat [2013)](https://archive.org/details/201309_foursquare_dataset_umn)
+* [GetGlue - users rating TV shows](http://getglue-data.s3.amazonaws.com/getglue_sample.tar.gz)
 * [GitHub Collaboration Archive](https://www.githubarchive.org)
-* [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db]
+* [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)
 * [High-Resolution Contact Networks from Wearable Sensors](http://www.sociopatterns.org/datasets)
-* [Mobile Social Networks from UMASS](https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks]
-* [Network Twitter Data](http://snap.stanford.edu/data/higgs-twitter.html]
+* [Mobile Social Networks from UMASS](https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks)
+* [Network Twitter Data](http://snap.stanford.edu/data/higgs-twitter.html)
 * [Reddit Comments](https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment)
-* [Skytrax' Air Travel Reviews Dataset](https://github.com/quankiquanki/skytrax-reviews-dataset]
-* [Social Twitter Data](http://snap.stanford.edu/data/egonets-Twitter.html]
-* [SourceForge.net Research Data](http://www3.nd.edu/~oss/Data/data.html]
+* [Skytrax' Air Travel Reviews Dataset](https://github.com/quankiquanki/skytrax-reviews-dataset)
+* [Social Twitter Data](http://snap.stanford.edu/data/egonets-Twitter.html)
+* [SourceForge.net Research Data](http://www3.nd.edu/~oss/Data/data.html)
 * [Twitter Data for Sentiment Analysis](http://help.sentiment140.com/for-students)
 * [Twitter Data for Online Reputation Management](http://nlp.uned.es/replab2013)
-* [Twitter Graph of entire Twitter site](http://an.kaist.ac.kr/traces/WWW2010.html]
-* [Twitter Scrape Calufa May 2011](http://archive.org/details/2011-05-calufa-twitter-sql]
-* [UNIMI/LAW Social Network Datasets](http://law.di.unimi.it/datasets.php]
-* [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g]
+* [Twitter Graph of entire Twitter site](http://an.kaist.ac.kr/traces/WWW2010.html)
+* [Twitter Scrape Calufa May 2011](http://archive.org/details/2011-05-calufa-twitter-sql)
+* [UNIMI/LAW Social Network Datasets](http://law.di.unimi.it/datasets.php)
+* [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g)
 * [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata)
 
 
@@ -472,41 +472,41 @@ Social Sciences
 ---------------
 
 * [ACLED [Armed Conflict Location & Event Data Project)](http://www.acleddata.com)
-* [Canadian Legal Information Institute](https://www.canlii.org/en/index.php]
+* [Canadian Legal Information Institute](https://www.canlii.org/en/index.php)
 * [Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc](http://www.systemicpeace.org)
 * [Correlates of War Project](http://www.correlatesofwar.org)
-* [Cryptome Conspiracy Theory Items](http://cryptome.org]
-* [Datacards](http://datacards.org]
+* [Cryptome Conspiracy Theory Items](http://cryptome.org)
+* [Datacards](http://datacards.org)
 * [European Social Survey](http://www.europeansocialsurvey.org/data)
-* [FBI Hate Crime 2013 - aggregated data](https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013]
-* [GDELT Global Events Database](http://gdeltproject.org/data.html]
-* [General Social Survey [GSS) since 1972](http://gss.norc.org]
+* [FBI Hate Crime 2013 - aggregated data](https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013)
+* [GDELT Global Events Database](http://gdeltproject.org/data.html)
+* [General Social Survey [GSS) since 1972](http://gss.norc.org)
 * [German Social Survey](http://www.gesis.org/en/home)
 * [Global Religious Futures Project](http://www.globalreligiousfutures.org)
 * [Humanitarian Data Exchange](https://data.hdx.rwlabs.org)
 * [Institute for Demographic Studies](http://www.ined.fr/en)
 * [International Networks Archive](http://www.princeton.edu/~ina)
-* [International Social Survey Program ISSP](http://www.issp.org]
+* [International Social Survey Program ISSP](http://www.issp.org)
 * [International Studies Compendium Project](http://www.isacompendium.com/public)
 * [James McGuire Cross National Data](http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data)
-* [MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste](http://nsd.uib.no]
+* [MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste](http://nsd.uib.no)
 * [Minnesota Population Center](https://www.ipums.org)
-* [MIT Reality Mining Dataset](http://realitycommons.media.mit.edu/realitymining.html]
+* [MIT Reality Mining Dataset](http://realitycommons.media.mit.edu/realitymining.html)
 * [Open Crime and Policing Data in England, Wales and Northern Ireland](https://data.police.uk/data)
-* [Paul Hensel General International Data Page](http://www.paulhensel.org/dataintl.html]
+* [Paul Hensel General International Data Page](http://www.paulhensel.org/dataintl.html)
 * [PewResearch Internet Survey Project](http://www.pewinternet.org/datasets/pages/2)
 * [PewResearch Society Data Collection](http://www.pewresearch.org/data/download-datasets)
-* [Political Polarity Data](http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip]
-* [StackExchange Data Explorer](http://data.stackexchange.com/help]
+* [Political Polarity Data](http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip)
+* [StackExchange Data Explorer](http://data.stackexchange.com/help)
 * [Terrorism Research and Analysis Consortium](http://www.trackingterrorism.org)
-* [Texas Inmates Executed Since 1984](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html]
-* [Titanic Survival Data Set](https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets] or(on Kaggle](https://www.kaggle.com/c/titanic/data]
+* [Texas Inmates Executed Since 1984](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html)
+* [Titanic Survival Data Set](https://github.com/caesar0301/awesome-public-datasets/tree/master/Datasets] or(on Kaggle](https://www.kaggle.com/c/titanic/data)
 * [UCB's Archive of Social Science Data [D-Lab)](http://ucdata.berkeley.edu)
 * [Uppsala Conflict Data Program](http://ucdp.uu.se)
-* [UCLA Social Sciences Data Archive](http://dataarchives.ss.ucla.edu/Home.DataPortals.htm]
+* [UCLA Social Sciences Data Archive](http://dataarchives.ss.ucla.edu/Home.DataPortals.htm)
 * [UN Civil Society Database](http://esango.un.org/civilsociety)
 * [Universities Worldwide](http://univ.cc)
-* [UPJOHN for Labor Employment Research](http://www.upjohn.org/services/resources/employment-research-data-center]
+* [UPJOHN for Labor Employment Research](http://www.upjohn.org/services/resources/employment-research-data-center)
 * [World Bank Data](http://data.worldbank.org)
 * [WorldPop project - Worldwide human population distributions](http://www.worldpop.org.uk/data/get_data)
 
@@ -519,52 +519,52 @@ Software
 Sports
 ------
 
-* [Basketball [NBA/NCAA/Euro) Player Database and Statistics](http://www.draftexpress.com/stats.php]
+* [Basketball [NBA/NCAA/Euro) Player Database and Statistics](http://www.draftexpress.com/stats.php)
 * [Betfair Historical Exchange Data](http://data.betfair.com)
 * [Cricsheet Matches [cricket)](http://cricsheet.org)
-* [Ergast Formula 1, from 1950 up to date [API)](http://ergast.com/mrd/db]
+* [Ergast Formula 1, from 1950 up to date [API)](http://ergast.com/mrd/db)
 * [Football/Soccer resources [data and APIs)](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis)
 * [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics)
-* [Pinhooker: Thoroughbred Bloodstock Sale Data](https://github.com/phillc73/pinhooker]
-* [Retrosheet Baseball Statistics](http://www.retrosheet.org/game.htm]
+* [Pinhooker: Thoroughbred Bloodstock Sale Data](https://github.com/phillc73/pinhooker)
+* [Retrosheet Baseball Statistics](http://www.retrosheet.org/game.htm)
 
 
 Time Series
 -----------
 
-* [Databanks International Cross National Time Series Data Archive](http://www.cntsdata.com]
-* [Hard Drive Failure Rates](https://www.backblaze.com/hard-drive-test-data.html]
+* [Databanks International Cross National Time Series Data Archive](http://www.cntsdata.com)
+* [Hard Drive Failure Rates](https://www.backblaze.com/hard-drive-test-data.html)
 * [Heart Rate Time Series from MIT](http://ecg.mit.edu/time-series)
-* [Time Series Data Library [TSDL) from MU](https://datamarket.com/data/list/?q=provider:tsdl]
+* [Time Series Data Library [TSDL) from MU](https://datamarket.com/data/list/?q=provider:tsdl)
 * [UC Riverside Time Series Dataset](http://www.cs.ucr.edu/~eamonn/time_series_data)
 
 
 Transportation
 --------------
 
-* [Airlines OD Data 1987-2008](http://stat-computing.org/dataexpo/2009/the-data.html]
-* [Bay Area Bike Share Data](http://www.bayareabikeshare.com/open-data]
-* [Bike Share Systems [BSS) collection](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems]
+* [Airlines OD Data 1987-2008](http://stat-computing.org/dataexpo/2009/the-data.html)
+* [Bay Area Bike Share Data](http://www.bayareabikeshare.com/open-data)
+* [Bike Share Systems [BSS) collection](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems)
 * [GeoLife GPS Trajectory from Microsoft Research](http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13)
 * [German train system by Deutsche Bahn](http://data.deutschebahn.com/datasets)
 * [Hubway Million Rides in MA](http://hubwaydatachallenge.org/trip-history-data)
-* [Marine Traffic - ship tracks, port calls and more](http://www.marinetraffic.com/de/ais-api-services]
-* [Montreal BIXI Bike Share](https://montreal.bixi.com/donn%C3%A9es-libre-service]
-* [NYC Taxi Trip Data 2009-](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml]
-* [NYC Taxi Trip Data 2013 [FOIA/FOILed)](https://archive.org/details/nycTaxiTripData2013]
-* [NYC Uber trip data April 2014 to September 2014](https://github.com/fivethirtyeight/uber-tlc-foil-response]
-* [Open Traffic collection](https://github.com/graphhopper/open-traffic-collection]
-* [OpenFlights - airport, airline and route data](http://openflights.org/data.html]
+* [Marine Traffic - ship tracks, port calls and more](http://www.marinetraffic.com/de/ais-api-services)
+* [Montreal BIXI Bike Share](https://montreal.bixi.com/donn%C3%A9es-libre-service)
+* [NYC Taxi Trip Data 2009-](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+* [NYC Taxi Trip Data 2013 [FOIA/FOILed)](https://archive.org/details/nycTaxiTripData2013)
+* [NYC Uber trip data April 2014 to September 2014](https://github.com/fivethirtyeight/uber-tlc-foil-response)
+* [Open Traffic collection](https://github.com/graphhopper/open-traffic-collection)
+* [OpenFlights - airport, airline and route data](http://openflights.org/data.html)
 * [Philadelphia Bike Share Stations [JSON)](https://www.rideindego.com/stations/json)
-* [Plane Crash Database, since 1920](http://www.planecrashinfo.com/database.htm]
-* [RITA Airline On-Time Performance data](http://www.transtats.bts.gov/Tables.asp?DB_ID=120]
-* [RITA/BTS transport data collection [TranStat)](http://www.transtats.bts.gov/DataIndex.asp]
-* [Toronto Bike Share Stations [XML file)](http://www.bikesharetoronto.com/data/stations/bikeStations.xml]
-* [Transport for London [TFL)](https://tfl.gov.uk/info-for/open-data-users/data-feeds]
-* [Travel Tracker Survey [TTS) for Chicago](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey]
+* [Plane Crash Database, since 1920](http://www.planecrashinfo.com/database.htm)
+* [RITA Airline On-Time Performance data](http://www.transtats.bts.gov/Tables.asp?DB_ID=120)
+* [RITA/BTS transport data collection [TranStat)](http://www.transtats.bts.gov/DataIndex.asp)
+* [Toronto Bike Share Stations [XML file)](http://www.bikesharetoronto.com/data/stations/bikeStations.xml)
+* [Transport for London [TFL)](https://tfl.gov.uk/info-for/open-data-users/data-feeds)
+* [Travel Tracker Survey [TTS) for Chicago](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey)
 * [U.S. Bureau of Transportation Statistics [BTS)](http://www.rita.dot.gov/bts)
-* [U.S. Domestic Flights 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a]
-* [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm]
+* [U.S. Domestic Flights 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a)
+* [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm)
 
 
 Complementary Collections
